@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="anumarial" label="anumarial" />
+      <node id="erikboralv" label="erikboralv" />
+      <node id="tajmanninen" label="tajmanninen" />
+      <node id="fatemehahmadi_" label="fatemehahmadi_" />
+      <node id="dexterdyne" label="dexterdyne" />
+      <node id="elohelsinki" label="elohelsinki" />
+      <node id="businessoulu_" label="businessoulu_" />
+      <node id="tainaketola" label="tainaketola" />
+      <node id="kaupunkia" label="kaupunkia" />
+      <node id="avointampere" label="avointampere" />
+      <node id="nooravaaraniemi" label="nooravaaraniemi" />
+      <node id="ajslaghu" label="ajslaghu" />
+      <node id="helviestinta" label="helviestinta" />
+      <node id="korpelakatri" label="korpelakatri" />
+      <node id="hrinfoshare" label="hrinfoshare" />
+      <node id="hamk" label="hamk" />
+      <node id="fvjones" label="fvjones" />
+      <node id="6aika" label="6aika" />
+      <node id="seppohaataja" label="seppohaataja" />
+      <node id="okffi" label="okffi" />
+      <node id="opendataoulu" label="opendataoulu" />
+      <node id="jarijokisalo" label="jarijokisalo" />
+      <node id="jyrkiw" label="jyrkiw" />
+      <node id="villekoiste" label="villekoiste" />
+      <node id="vikla" label="vikla" />
+      <node id="kuutosaika" label="kuutosaika" />
+      <node id="citysdk_hanna" label="citysdk_hanna" />
+      <node id="forumvirium" label="forumvirium" />
+      <node id="tietokeskus" label="tietokeskus" />
+      <node id="smoinen" label="smoinen" />
+      <node id="jnkka" label="jnkka" />
+      <node id="bobbycaudill" label="bobbycaudill" />
+      <node id="finlandstyle" label="finlandstyle" />
+      <node id="johannakarimaki" label="johannakarimaki" />
+      <node id="jpulmuranta" label="jpulmuranta" />
+      <node id="ukingsdata" label="ukingsdata" />
+      <node id="rantakokko" label="rantakokko" />
+      <node id="miskaknapek" label="miskaknapek" />
+      <node id="tarja_vuorinen" label="tarja_vuorinen" />
+      <node id="mikkohonkanen" label="mikkohonkanen" />
+      <node id="oystea" label="oystea" />
+      <node id="mattifr" label="mattifr" />
+      <node id="tiinatorppa" label="tiinatorppa" />
+      <node id="ilmastokatu" label="ilmastokatu" />
+      <node id="databusinessfi" label="databusinessfi" />
+      <node id="openplatforms" label="openplatforms" />
+      <node id="pekkasauri" label="pekkasauri" />
+      <node id="scilib" label="scilib" />
+      <node id="avoindata" label="avoindata" />
+      <node id="aiatampere" label="aiatampere" />
+      <node id="fiksukalasatama" label="fiksukalasatama" />
+      <node id="maritakainuusta" label="maritakainuusta" />
+      <node id="openfinland" label="openfinland" />
+      <node id="kyyberi" label="kyyberi" />
+    </nodes>
+    <edges>
+      <edge id="0" source="anumarial" target="databusinessfi" weight="1" />
+      <edge id="1" source="tajmanninen" target="elohelsinki" weight="1" />
+      <edge id="2" source="tajmanninen" target="databusinessfi" weight="1" />
+      <edge id="3" source="fatemehahmadi_" target="citysdk_hanna" weight="1" />
+      <edge id="4" source="fatemehahmadi_" target="hrinfoshare" weight="1" />
+      <edge id="5" source="dexterdyne" target="smoinen" weight="1" />
+      <edge id="6" source="elohelsinki" target="okffi" weight="1" />
+      <edge id="7" source="elohelsinki" target="fiksukalasatama" weight="1" />
+      <edge id="8" source="elohelsinki" target="citysdk_hanna" weight="1" />
+      <edge id="9" source="elohelsinki" target="databusinessfi" weight="4" />
+      <edge id="10" source="elohelsinki" target="hrinfoshare" weight="1" />
+      <edge id="11" source="elohelsinki" target="kuutosaika" weight="1" />
+      <edge id="12" source="tainaketola" target="tarja_vuorinen" weight="1" />
+      <edge id="13" source="tainaketola" target="databusinessfi" weight="1" />
+      <edge id="14" source="kaupunkia" target="kuutosaika" weight="1" />
+      <edge id="15" source="kaupunkia" target="fiksukalasatama" weight="1" />
+      <edge id="16" source="avointampere" target="databusinessfi" weight="1" />
+      <edge id="17" source="nooravaaraniemi" target="citysdk_hanna" weight="1" />
+      <edge id="18" source="nooravaaraniemi" target="databusinessfi" weight="2" />
+      <edge id="19" source="ajslaghu" target="smoinen" weight="1" />
+      <edge id="20" source="hrinfoshare" target="citysdk_hanna" weight="2" />
+      <edge id="21" source="hrinfoshare" target="elohelsinki" weight="1" />
+      <edge id="22" source="hrinfoshare" target="databusinessfi" weight="1" />
+      <edge id="23" source="hrinfoshare" target="hrinfoshare" weight="2" />
+      <edge id="24" source="fvjones" target="smoinen" weight="1" />
+      <edge id="25" source="seppohaataja" target="databusinessfi" weight="1" />
+      <edge id="26" source="opendataoulu" target="kyyberi" weight="1" />
+      <edge id="27" source="opendataoulu" target="korpelakatri" weight="1" />
+      <edge id="28" source="jarijokisalo" target="rantakokko" weight="2" />
+      <edge id="29" source="jyrkiw" target="kuutosaika" weight="1" />
+      <edge id="30" source="jyrkiw" target="openfinland" weight="1" />
+      <edge id="31" source="villekoiste" target="helviestinta" weight="1" />
+      <edge id="32" source="vikla" target="citysdk_hanna" weight="1" />
+      <edge id="33" source="kuutosaika" target="kuutosaika" weight="1" />
+      <edge id="34" source="kuutosaika" target="fiksukalasatama" weight="1" />
+      <edge id="35" source="citysdk_hanna" target="businessoulu_" weight="1" />
+      <edge id="36" source="citysdk_hanna" target="forumvirium" weight="1" />
+      <edge id="37" source="citysdk_hanna" target="smoinen" weight="2" />
+      <edge id="38" source="citysdk_hanna" target="databusinessfi" weight="2" />
+      <edge id="39" source="citysdk_hanna" target="hrinfoshare" weight="1" />
+      <edge id="40" source="citysdk_hanna" target="kuutosaika" weight="1" />
+      <edge id="41" source="citysdk_hanna" target="openfinland" weight="1" />
+      <edge id="42" source="forumvirium" target="helviestinta" weight="1" />
+      <edge id="43" source="forumvirium" target="citysdk_hanna" weight="1" />
+      <edge id="44" source="forumvirium" target="okffi" weight="1" />
+      <edge id="45" source="forumvirium" target="databusinessfi" weight="1" />
+      <edge id="46" source="forumvirium" target="forumvirium" weight="1" />
+      <edge id="47" source="tietokeskus" target="citysdk_hanna" weight="1" />
+      <edge id="48" source="tietokeskus" target="elohelsinki" weight="1" />
+      <edge id="49" source="tietokeskus" target="databusinessfi" weight="2" />
+      <edge id="50" source="tietokeskus" target="hrinfoshare" weight="1" />
+      <edge id="51" source="smoinen" target="citysdk_hanna" weight="3" />
+      <edge id="52" source="smoinen" target="miskaknapek" weight="1" />
+      <edge id="53" source="smoinen" target="databusinessfi" weight="2" />
+      <edge id="54" source="smoinen" target="erikboralv" weight="1" />
+      <edge id="55" source="smoinen" target="oystea" weight="1" />
+      <edge id="56" source="jnkka" target="korpelakatri" weight="1" />
+      <edge id="57" source="bobbycaudill" target="citysdk_hanna" weight="2" />
+      <edge id="58" source="bobbycaudill" target="forumvirium" weight="1" />
+      <edge id="59" source="bobbycaudill" target="hrinfoshare" weight="1" />
+      <edge id="60" source="finlandstyle" target="citysdk_hanna" weight="1" />
+      <edge id="61" source="finlandstyle" target="elohelsinki" weight="2" />
+      <edge id="62" source="finlandstyle" target="databusinessfi" weight="2" />
+      <edge id="63" source="finlandstyle" target="hrinfoshare" weight="1" />
+      <edge id="64" source="johannakarimaki" target="helviestinta" weight="1" />
+      <edge id="65" source="jpulmuranta" target="avoindata" weight="1" />
+      <edge id="66" source="jpulmuranta" target="mikkohonkanen" weight="1" />
+      <edge id="67" source="jpulmuranta" target="6aika" weight="1" />
+      <edge id="68" source="jpulmuranta" target="hamk" weight="1" />
+      <edge id="69" source="ukingsdata" target="smoinen" weight="1" />
+      <edge id="70" source="rantakokko" target="kuutosaika" weight="1" />
+      <edge id="71" source="rantakokko" target="aiatampere" weight="1" />
+      <edge id="72" source="miskaknapek" target="miskaknapek" weight="1" />
+      <edge id="73" source="miskaknapek" target="erikboralv" weight="1" />
+      <edge id="74" source="miskaknapek" target="smoinen" weight="1" />
+      <edge id="75" source="miskaknapek" target="oystea" weight="1" />
+      <edge id="76" source="mattifr" target="helviestinta" weight="1" />
+      <edge id="77" source="tiinatorppa" target="helviestinta" weight="1" />
+      <edge id="78" source="ilmastokatu" target="fiksukalasatama" weight="1" />
+      <edge id="79" source="openplatforms" target="rantakokko" weight="2" />
+      <edge id="80" source="openplatforms" target="aiatampere" weight="1" />
+      <edge id="81" source="pekkasauri" target="kuutosaika" weight="1" />
+      <edge id="82" source="pekkasauri" target="fiksukalasatama" weight="1" />
+      <edge id="83" source="scilib" target="smoinen" weight="1" />
+      <edge id="84" source="aiatampere" target="kuutosaika" weight="1" />
+      <edge id="85" source="aiatampere" target="kyyberi" weight="1" />
+      <edge id="86" source="aiatampere" target="fiksukalasatama" weight="1" />
+      <edge id="87" source="fiksukalasatama" target="kuutosaika" weight="1" />
+      <edge id="88" source="fiksukalasatama" target="ilmastokatu" weight="1" />
+      <edge id="89" source="fiksukalasatama" target="fiksukalasatama" weight="1" />
+      <edge id="90" source="maritakainuusta" target="helviestinta" weight="1" />
+      <edge id="91" source="openfinland" target="kuutosaika" weight="1" />
+    </edges>
+  </graph>
+</gexf>
