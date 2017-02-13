@@ -2,3 +2,5 @@
 keychain.json
 
 data/.~lock.tweets-6aika.csv#
+
+ENV/*
